@@ -1,6 +1,0 @@
-CREATE OR ALTER FILE FORMAT raw.csv_file
-TYPE=CSV
-FIELD_DELIMITER='|'
-TIMESTAMP_FORMAT='YYYYMMDD-HH24:MI:SS:FF3';
-
-desc file format raw.csv_file;
