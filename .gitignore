@@ -1,0 +1,6 @@
+config.toml
+snowflake_rsa_key.p8
+snowflake_rsa_.public.pub
+snowflake_rsa_public.pub
+config_snow_cli.sh
+config_snow_cli.sh
