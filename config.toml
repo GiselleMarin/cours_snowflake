@@ -1,5 +1,5 @@
 [connections.default]
-account = "ONB31943"
+account = "THMMSGS-BV92046"
 user = "deployment_user"
 authenticator = "SNOWFLAKE_JWT"
 private_key_file = "./snowflake_rsa_key.p8"
